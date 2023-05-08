@@ -10,7 +10,7 @@
 		"itemReviewed": {
 		    "@type": "Game",
 			"name": "Assassin's Creed Chronicles: India",
-			"image": "ACCIndia.png",
+			"image": "{{ asset('img/verners1.png') }}",
 			"description": "Overall, \"Assassin's Creed Chronicles: India\" is a solid entry in the franchise, but it falls short in comparison to some of the mainline games.",
 			"genre":["Stealth game","Platform game","Action-adventure game","Adventure"],
 			"processorRequirements":"2 cores",
